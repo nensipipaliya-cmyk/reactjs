@@ -1,6 +1,11 @@
+<<<<<<< HEAD
     @import "tailwindcss";
 
     /* body { */
   /* background-color: yellow !important; */
 /* } */
 
+=======
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+>>>>>>> 4f99a56a66948f36bc18f28e512e739bc7111582
